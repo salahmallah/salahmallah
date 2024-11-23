@@ -3,8 +3,8 @@
 - 🌱 I'm currently learning mobile game development
 - 💞️ Looking for collaboration in mobile game development
 - 📫 How to reach me Mobile Game Development
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he
+- ⚡ Fun fact: huh
 
 <!---
 salahmallah/salahmallah is a ✨ private ✨ repository because the `README.md` file (this file) appears in your GitHub profile.
